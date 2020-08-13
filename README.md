@@ -1,4 +1,4 @@
-# fairpay
+# Fairpay
 Fairpay is a website that allows employees to securely share salary and 
 employment information with others. Employees can use it to
  learn how their compensation compares to others in the same company and industry,
